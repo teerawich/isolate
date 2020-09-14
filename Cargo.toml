@@ -1,0 +1,11 @@
+[package]
+name = "isolate"
+version = "0.1.0-alpha"
+authors = ["Teerawich Phasitthanakamol <p.teerawich@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3.0.1"
+actix-web-codegen = "0.3.0"
