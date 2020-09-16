@@ -18,9 +18,19 @@ Implementation
 
 |#|Module|Status|
 |---|---|---|
-|1|Project||
-|2|Branch||
-|3|Ticket||
+|1|Authentication|doing|
+|1.1|integrate with keycloak|research|
+|2|Branch|doing|
+|3|Email||
+|4|Equipment||
+|5|Event||
+|6|Health Check|doing|
+|7|Job||
+|8|Matrix||
+|9|Project|doing|
+|10|Report||
+|11|Task Scheduler||
+|12|Ticket||
 
 Testing
 
