@@ -12,7 +12,7 @@ Utils functions target on operation and manage the project.
 
 **operation matrix show number of called and status of calling.
 
-|function|number|success|failed|
+|function|total|success|failed|
 |---|---:|---:|---:|
 **AUTH**|
 |login|30|30|0|
