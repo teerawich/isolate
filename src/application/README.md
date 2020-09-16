@@ -10,7 +10,7 @@ Utils functions target on operation and manage the project.
 3. provide an api for getting operation matrix**.
 
 
-**operation matrix show number of called.
+**operation matrix show number of called and status of calling.
 
 |function|number|success|failed|
 |---|---:|---:|---:|
