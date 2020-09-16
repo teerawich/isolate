@@ -16,6 +16,7 @@ Utils functions target on operation and manage the project.
 |---|---:|---:|---:|
 |**UTILS**|
 |get_version|30|30|0|
+|matrix|30|30|0|
 |**PROJECT**|
 |projects|0|0|0|
 |project_new|0|0|0|
@@ -28,3 +29,15 @@ Utils functions target on operation and manage the project.
 |tickets|0|0|0|
 |ticket_new|0|0|0|
 |ticket_remove|0|0|0|
+|**EQUIPMENT**|
+|equipments|0|0|0|
+|equipment_new|0|0|0|
+|equipment_remove|0|0|0|
+|**ACTION**|
+|actions|0|0|0|
+|action_new|0|0|0|
+|action_remove|0|0|0|
+|**JOB DOCUMENT**|
+|jobs|0|0|0|
+|job_new|0|0|0|
+|job_remove|0|0|0|
